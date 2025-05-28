@@ -1,0 +1,108 @@
+{
+    "common newt": [
+        "red eft",
+        "bull frog",
+        "eft"
+    ],
+    "eft": [
+        "frog",
+        "salamander",
+        "Eftling",
+        "Hatchling",
+        "Amphibia"
+    ],
+    "spotted salamander": [
+        "bull frog",
+        "Serval"
+    ],
+    "green lizard": [
+        "frog",
+        "Firefly"
+    ],
+    "African crocodile": [
+        "Monitor Lizard",
+        "frog",
+        "eft"
+    ],
+    "timber wolf": [
+        "dog",
+        "Husky",
+        "Dhole",
+        "cat",
+        "fox"
+    ],
+    "Arctic fox": [
+        "Hare",
+        "wolf",
+        "rabbit",
+        "Alaskan Malamute",
+        "cat"
+    ],
+    "brown bear": [
+        "horse",
+        "Gray Wolf",
+        "Wild Boar",
+        "Gorilla",
+        "Dog"
+    ],
+    "starfish": [
+        "jellyfish"
+    ],
+    "zebra": [
+        "Donkey",
+        "horse",
+        "antelope",
+        "camel",
+        "car"
+    ],
+    "balloon": [
+        "Ping Pong Balls",
+        "missile",
+        "plane",
+        "bird"
+    ],
+    "bullet train": [
+        "bus",
+        "car",
+        "ship"
+    ],
+    "canoe": [
+        "container ship",
+        "Yacht"
+    ],
+    "missile": [
+        "missive",
+        "weather balloon",
+        "Antenna Tower",
+        "Armament"
+    ],
+    "moped": [
+        "car",
+        "bus",
+        "truck"
+    ],
+    "sailboat": [
+        "shark"
+    ],
+    "snowmobile": [
+        "car",
+        "scooter",
+        "bus",
+        "truck",
+        "ship"
+    ],
+    "space shuttle": [
+        "ship",
+        "warplane",
+        "Satellites",
+        "Rovers",
+        "bird"
+    ],
+    "steam locomotive": [
+        "car"
+    ],
+    "tank": [
+        "plane",
+        "car"
+    ]
+}

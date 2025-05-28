@@ -1,0 +1,72 @@
+{
+    "brambling bird": [
+        "Butterfly",
+        "moth",
+        "Flying Fish",
+        "Bat",
+        "plane"
+    ],
+    "bull frog": [
+        "common newt",
+        "spotted salamander",
+        "green lizard",
+        "Turtle",
+        "Toad"
+    ],
+    "swiss mountain dog": [
+        "Alaskan Malamute",
+        "fox",
+        "wolf",
+        "Coyote",
+        "Lion"
+    ],
+    "Siamese cat": [
+        "Arctic fox",
+        "Betta splendens",
+        "Oryctolagus cuniculus",
+        "Ferret",
+        "Weasel"
+    ],
+    "horse": [
+        "Zebra",
+        "Donkey",
+        "Camel",
+        "bear",
+        "antelope"
+    ],
+    "antelope": [
+        "Deer",
+        "Giraffe",
+        "Vicugna pacos",
+        "Ibex",
+        "Deer"
+    ],
+    "container ship": [
+        "canoe",
+        "sailboat",
+        "Freight Train",
+        "Warehouse",
+        "Cargo Plane"
+    ],
+    "garbage truck": [
+        "steam locomotive",
+        "Street Sweeper",
+        "Concrete Mixer",
+        "Mobile Crane",
+        "Armored Vehicle"
+    ],
+    "sports car": [
+        "bus",
+        "truck",
+        "Jet Ski",
+        "Motorcycle",
+        "Bobsled"
+    ],
+    "warplane": [
+        "Commercial Airliner",
+        "missile",
+        "Drone",
+        "Space Shuttle",
+        "Jet Ski"
+    ]
+}
